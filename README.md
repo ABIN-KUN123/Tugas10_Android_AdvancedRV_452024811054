@@ -5,8 +5,7 @@ Proyek ini merupakan tugas mata kuliah Pemrograman Perangkat Bergerak yang mengi
 ## Identitas Mahasiswa
 * **Nama:** Abinaya Azhar Probo Kusumo
 * **NIM:** 452024811054
-* **Kelas:** Teknik Informatika - A (Angkatan 2024)
-
+* **Kelas:** A1
 ---
 
 ## Analisis Efisiensi: RecyclerView.Adapter vs ListAdapter
